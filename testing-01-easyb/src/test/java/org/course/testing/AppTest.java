@@ -1,4 +1,4 @@
-package com.curso.easybmaven0001;
+package org.course.testing;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
