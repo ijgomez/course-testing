@@ -1,13 +1,5 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package org.course.testing;
 
-/**
- *
- * @author jose maria
- */
 public class AccountServiceImpl implements AccountService {
 
     private AccountDao dao;

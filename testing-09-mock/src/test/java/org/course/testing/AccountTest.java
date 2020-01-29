@@ -1,7 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package org.course.testing;
 
 import junit.framework.TestCase;
@@ -11,10 +7,6 @@ import org.course.testing.AccountDao;
 import org.course.testing.AccountServiceImpl;
 import org.easymock.EasyMock;
 
-/**
- *
- * @author jose maria
- */
 public class AccountTest extends TestCase {
 
     private Account mockCuenta;
