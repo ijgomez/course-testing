@@ -10,9 +10,6 @@ import org.junit.Test;
 
 public class AccountTest {
 
-    public AccountTest() {
-    }
-
     @BeforeClass
     public static void setUpClass() throws Exception {
     }
