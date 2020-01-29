@@ -19,3 +19,6 @@ List of exercises and examples of course:
 - testing-07-junit: Ajustamos el código para que ambos test pasen. Sólo el necesario.
 - testing-08-junit: Reorganizamos el código (refactoring)
 - testing-09-mock:
+- testing-10-mock:
+- testing-11-jmeter:
+- testing-12-selenium:
