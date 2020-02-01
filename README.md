@@ -22,3 +22,4 @@ List of exercises and examples of course:
 - testing-10-mock:
 - testing-11-jmeter:
 - testing-12-selenium:
+- testing-13-application:
